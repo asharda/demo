@@ -3,7 +3,7 @@ var express = require('express'),
 	port = process.env.PORT || 4040;
 
 app.get("/",function(req,res) {
-	res.send("my awesome app");
+	res.send("my first app on Heroko!");
 });
 
 
