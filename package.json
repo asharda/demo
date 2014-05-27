@@ -1,0 +1,9 @@
+{
+  "name": "heroku_example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies":{
+  	"express":"*"
+  }
+}
